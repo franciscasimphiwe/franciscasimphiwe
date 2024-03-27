@@ -1,9 +1,5 @@
 ### Hi there 👋 my name is Simphiwe Francisca Nkuta.
 
-**franciscasimphiwe/franciscasimphiwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Umuzi's bootcamp.
 - 🌱 I’m currently aspiring to learn data science. 
 - 👯 I’m looking to grow in the technology industry.
